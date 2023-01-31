@@ -42591,7 +42591,7 @@ $S:15}
 A.ajG.prototype={
 $1(a){var s,r="Please enter a valid app bundle identifier"
 if(a.length===0)return r
-s=A.aR("^([A-Za-z]{1}[A-Za-z\\d_]*\\.)+[A-Za-z][A-Za-z\\d_]*$",!0,!1)
+s=A.aR("^[a-z][a-z0-9_]*(\\.[a-z0-9_]+)+[0-9a-z_]$",!1,!1)
 if(!s.b.test(a))return"Invalid bundle identifier"
 return null},
 $S:34}
