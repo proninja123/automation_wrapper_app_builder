@@ -42941,7 +42941,7 @@ A.anP.prototype={
 $0(){var s=0,r=A.O(t.H),q=this,p
 var $async$$0=A.K(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:p=q.a
-if(p.w.ga1().z8())if(B.b.d2(p.x.a.a)==="admin@awabuilder.com"&&B.b.d2(p.y.a.a)==="admin123"){p=p.gjC(p)
+if(p.w.ga1().z8())if(B.b.d2(p.x.a.a)==="admin@awabuilder.com"&&B.b.d2(p.y.a.a)==="6w6IowCBbb7W@vFKtF$6^*f5F"){p=p.gjC(p)
 $.rP().eg(0,A.h0(p,!1)).CG("Bool","isLoggedIn",!0)
 A.ayO("/menu-page")}else A.aUw(q.b,B.dz,B.Fi,"Invalid credentials. Please check your email and password.")
 return A.M(null,r)}})
